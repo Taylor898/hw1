@@ -1,3 +1,7 @@
+# First version controlled file
+
+## text highlight
+
 Hello world
 
 getting familiar with version control
