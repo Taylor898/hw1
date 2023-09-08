@@ -9,3 +9,7 @@ getting familiar with version control
 * list element 1
 * el 2
 * el 2 * 
+
+1. el 1
+2. el 2
+3. el 3
