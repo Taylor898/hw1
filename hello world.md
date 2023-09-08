@@ -2,6 +2,8 @@
 
 ## text highlight
 
+- headline
+
 Hello world
 
 getting familiar with version control
@@ -9,6 +11,8 @@ getting familiar with version control
 *cursive*
 
 **halfbold**
+
+~~crossed out text~~
 
 * list element 1
 * el 2
