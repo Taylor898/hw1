@@ -48,6 +48,8 @@ Emojis:
 horizontal line
 ___
 
+This part is dedicated to lists and tables
+
 Table below 
 
 | Headline 1 | Headline 2|
