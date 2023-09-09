@@ -8,6 +8,8 @@ Hello world
 
 getting familiar with version control
 
+various text styles demonstrated below
+
 *cursive*
 
 **halfbold**
