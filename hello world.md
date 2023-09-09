@@ -81,3 +81,6 @@ Chech-list
 3. el 3
 
 ![local img](gnik.jpg)
+
+
+git reset --hard HEAD~ deletes last commit alone, with --hard also deletes changes made in last commit
