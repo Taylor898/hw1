@@ -71,6 +71,3 @@ Chech-list
     * subel1.2
 2. el 2
 3. el 3
-
-## here i added some stuff, saved it but didn't commit
-### now i commited it and i wanna see diff
