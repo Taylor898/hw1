@@ -86,3 +86,5 @@ Chech-list
 git reset --hard HEAD~ deletes last commit alone, with --hard also deletes changes made in last commit
 
 i added this text on github 
+
+adding this text to test a new branch on gh
